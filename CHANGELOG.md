@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.5.8](https://github.com/robertwang1001/proyecto/compare/v2.5.7...v2.5.8) (2026-08-30)
+
+
+### Bug Fixes
+
+* **deps:** update all non-major dependencies ([#103](https://github.com/robertwang1001/proyecto/issues/103)) ([f725e1e](https://github.com/robertwang1001/proyecto/commit/f725e1e72907e3d47ff0c2989b54f03ddf9c1a8b))
+* **deps:** update all non-major dependencies ([#107](https://github.com/robertwang1001/proyecto/issues/107)) ([6c20fb5](https://github.com/robertwang1001/proyecto/commit/6c20fb5fd1dd4390536da22e113fc74318f2186f))
+* **deps:** update all non-major dependencies ([#112](https://github.com/robertwang1001/proyecto/issues/112)) ([ffcc476](https://github.com/robertwang1001/proyecto/commit/ffcc476a6e770b04735d0cc24c71380ff55ef7f7))
+* **deps:** update all non-major dependencies ([#95](https://github.com/robertwang1001/proyecto/issues/95)) ([88f78ba](https://github.com/robertwang1001/proyecto/commit/88f78ba006dcf2f685eed353901c59192554eee1))
+* **deps:** update all non-major dependencies ([#98](https://github.com/robertwang1001/proyecto/issues/98)) ([d7b2602](https://github.com/robertwang1001/proyecto/commit/d7b260214eeed73e6d2134278700a272d960996b))
+
 ## [2.5.7](https://github.com/robertwang1001/proyecto/compare/v2.5.6...v2.5.7) (2026-05-24)
 
 
