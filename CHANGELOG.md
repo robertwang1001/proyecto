@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.5.9](https://github.com/robertwang1001/proyecto/compare/v2.5.8...v2.5.9) (2026-09-07)
+
+
+### Bug Fixes
+
+* **deps:** update all non-major dependencies ([#113](https://github.com/robertwang1001/proyecto/issues/113)) ([60b526f](https://github.com/robertwang1001/proyecto/commit/60b526f9b3d66ca2d10a045223abb283a7aad15f))
+* **deps:** update all non-major dependencies ([#115](https://github.com/robertwang1001/proyecto/issues/115)) ([02712e0](https://github.com/robertwang1001/proyecto/commit/02712e0680a65148c440cc9f12bdfcf9db64d6ec))
+
 ## [2.5.8](https://github.com/robertwang1001/proyecto/compare/v2.5.7...v2.5.8) (2026-08-30)
 
 
