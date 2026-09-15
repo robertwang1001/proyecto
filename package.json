@@ -53,7 +53,7 @@
     "conf": "^15.1.0",
     "env-paths": "^4.0.0",
     "fs-extra": "^11.4.0",
-    "fuzzysort": "^3.1.0",
+    "fuzzysort": "^4.0.2",
     "iso-timestamp": "^1.2.0",
     "minimist": "^1.2.8",
     "open-editor": "^6.0.0",
